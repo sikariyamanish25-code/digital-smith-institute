@@ -1,0 +1,15 @@
+index.html
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Digital Smith Institute</title>
+  <style>
+    body { font-family: Arial; text-align: center; padding: 40px; }
+    h1 { color: #222; }
+  </style>
+</head>
+<body>
+  <h1>Welcome to Digital Smith Institute</h1>
+  <p>Best Institute for Digital Marketing • Graphic Design • Video Editing</p>
+</body>
+</html>
